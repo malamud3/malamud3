@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * Application develepor  
 I am a passionate application developer with a solid background in software engineering and expertise in native development. With a Bachelor's degree in Software Engineering, I have honed my skills in building high-quality applications for various platforms.
 * 🌍  I'm based in Beer Sheva 
-* * ✉️  You can contact me at [malamud95@gmail.com](mailto:malamud95@gmail.com)
+* ✉️  You can contact me at [malamud95@gmail.com](mailto:malamud95@gmail.com)
 
 ### Skills  
 
